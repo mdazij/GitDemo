@@ -1,5 +1,0 @@
-2024-11-22 19:59:48,600 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
-2024-11-22 20:00:29,244 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Azij:ExtentReports:0.0.1-SNAPSHOT @ D:\JAVA2\GitRega\GitDemo\pom.xml.
-2024-11-22 20:00:29,847 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for SeleniumProject:MyProject:jar:0.0.1-SNAPSHOT is missing, no dependency information available
-2024-11-22 20:00:31,323 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\JAVA2\GitRega\GitDemo\src\main\resources
-2024-11-22 20:00:31,336 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\JAVA2\GitRega\GitDemo\src\test\resources
