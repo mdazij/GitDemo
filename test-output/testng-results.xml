@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-06T10:31:18 IST" name="Default suite" finished-at="2024-11-06T10:31:25 IST" duration-ms="6266">
+  <suite started-at="2024-11-22T11:26:45 IST" name="Default suite" finished-at="2024-11-22T11:26:49 IST" duration-ms="4211">
     <groups>
     </groups>
-    <test started-at="2024-11-06T10:31:18 IST" name="Default test" finished-at="2024-11-06T10:31:25 IST" duration-ms="6266">
+    <test started-at="2024-11-22T11:26:45 IST" name="Default test" finished-at="2024-11-22T11:26:49 IST" duration-ms="4211">
       <class name="Azij.ExtentReports.ExtentReportsDemo">
-        <test-method is-config="true" signature="config()[pri:0, instance:Azij.ExtentReports.ExtentReportsDemo@74e52ef6]" started-at="2024-11-06T10:31:18 IST" name="config" finished-at="2024-11-06T10:31:19 IST" duration-ms="391" status="PASS">
+        <test-method is-config="true" signature="config()[pri:0, instance:Azij.ExtentReports.ExtentReportsDemo@2925bf5b]" started-at="2024-11-22T11:26:45 IST" name="config" finished-at="2024-11-22T11:26:45 IST" duration-ms="262" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- config -->
-        <test-method signature="initialDemo()[pri:0, instance:Azij.ExtentReports.ExtentReportsDemo@74e52ef6]" started-at="2024-11-06T10:31:19 IST" name="initialDemo" finished-at="2024-11-06T10:31:25 IST" duration-ms="5802" status="PASS">
+        <test-method signature="initialDemo()[pri:0, instance:Azij.ExtentReports.ExtentReportsDemo@2925bf5b]" started-at="2024-11-22T11:26:45 IST" name="initialDemo" finished-at="2024-11-22T11:26:49 IST" duration-ms="3908" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialDemo -->

@@ -13,7 +13,7 @@ import com.aventstack.extentreports.Status;
 
 import MyProject.resources.ExtentReorterNG;
 
-public class Listeners extends BaseTest implements ITestListener {
+public class Listeners extends ExtentReportsDemo implements ITestListener {
 
 	ExtentReports extent = ExtentReorterNG.getReportObject();
 	ExtentTest test;

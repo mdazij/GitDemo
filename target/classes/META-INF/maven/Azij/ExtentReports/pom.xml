@@ -58,6 +58,11 @@
     <version>5.9.2</version>
 </dependency>
 
+  	<dependency>
+  		<groupId>SeleniumProject</groupId>
+  		<artifactId>MyProject</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 
   <build>
